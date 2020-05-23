@@ -9,7 +9,7 @@ permalink: /rules
 
 ## Be respectful
 Respect the other players and don't ruin the game for them.  
-That's the only rule.
+That's the one key rule.
 
 To put this in concrete terms:
 1. Don't disturb other people's builds, or the area with 100 blocks.  
