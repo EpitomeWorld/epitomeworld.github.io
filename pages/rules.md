@@ -6,7 +6,7 @@ header:
 permalink: /rules
 ---
 
-# Be respectful
+## Be respectful
 Respect the other players and don't ruin the game for them.  
 That's the only rule.
 
