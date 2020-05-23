@@ -20,7 +20,8 @@ To put this in concrete terms:
 3. No mods that give unfair advantage.  
   There is a lot of grey area here. So to give examples, things like X-ray, flying, & auto-clickers, are not allowed. However others like minimaps, textures & shaders, shulker tooltips, etc are fine.  
   If you're uncertain, please feel free to ask staff.
-4. No offensive structures. If you can't be mature, this isn't the server for you.
+4. No offensive structures.  
+  If you can't be mature, this isn't the server for you.
 5. No excessive redstone.  
   Massive machines, 0-tick devices, anything which puts excessive load on the server are not allowed.
 6. Don't AFK for more than 1 hour.
