@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+title: Rules
 header:
   title: Rules
   background-color: '#466422'
