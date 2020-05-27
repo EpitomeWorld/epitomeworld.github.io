@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 homepage: true
-layout: page-fullwidth
+layout: page
+sidebar: right
 header:
   image: logo/banner.png
   background-color: "#1a1a1a; background-image: url('/images/logo/home-banner-bg.png'); background-repeat: no-repeat; background-position-x: right; background-position-y: bottom;"
