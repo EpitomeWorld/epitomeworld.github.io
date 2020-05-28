@@ -27,4 +27,6 @@ What does this mean in practice?
 
 # Discord
 
-For a Discord invite: [discord.epitome.world](http://discord.epitome.world)
+Discord is where the community discussion lives. Announcements, discussions, suggestions, ban appeals, etc, all happen there. We also have a discord channel which allows chatting with those in game.
+
+Invite URL: [discord.epitome.world](http://discord.epitome.world)
