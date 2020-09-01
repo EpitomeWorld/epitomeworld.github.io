@@ -30,5 +30,3 @@ Mob farm populations are controlled by the server.
 * Breeding is restricted to 20 mobs in a 16-block radius. More than this and they won't breed.
 * Chunks are limited to 20 mobs each. More than this and the extras will be removed on chunk unload.
 * Spawners will spawn up to 30 mobs. More than this and the spawner will stop.
-
-Fish farms are allowed, as long as you respect the 1 hour AFK rule.
