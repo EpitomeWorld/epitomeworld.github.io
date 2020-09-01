@@ -24,7 +24,6 @@ To put this in concrete terms:
   If you can't be mature, this isn't the server for you.
 5. No excessive redstone.  
   Massive machines, 0-tick devices, anything which puts excessive load on the server are not allowed.
-6. Don't AFK for more than 1 hour.
 
 ## Farms
 Mob farm populations are controlled by the server.
